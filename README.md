@@ -16,6 +16,8 @@ Even if you are just a developer, manager or co-founder looking for a sample app
 | Name | Description | Link |
 |------|-------------|------|
 | [AbuseIO](https://github.com/AbuseIO/AbuseIO) | Abuse Management for network operators | [https://abuse.io](https://abuse.io) |
+[laravel-crm](https://github.com/krayin/laravel-crm) | Free & Opensource Laravel CRM solution for SMEs and Enterprises for complete customer lifecycle management. | [https://krayincrm.com/](https://krayincrm.com/)
+
 
 ## VueJS
 | Name | Description | Link |
